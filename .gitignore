@@ -1,0 +1,6 @@
+.env
+profile.json
+data/
+audio/
+__pycache__/
+.venv/

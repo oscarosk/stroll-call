@@ -1,0 +1,20 @@
+{
+  "name": "Grandma",
+  "language": "English",
+  "age": 74,
+  "mobility": "walks slowly, uses a cane on uneven ground, avoids stairs and steep slopes",
+  "usual_minutes": 15,
+  "goal_minutes": 25,
+  "best_time": "early morning, before it gets hot",
+  "home": "ground-floor flat, two minutes from the neighbourhood park",
+  "places": [
+    {"name": "the park gate", "note": "benches every fifty metres"},
+    {"name": "the walking track inside the park", "note": "flat, about 400 metres per loop"},
+    {"name": "the big tree by the temple", "note": "shady, a bench underneath"},
+    {"name": "the vegetable cart lane", "note": "busy after 8 am"},
+    {"name": "the flower nursery", "note": "owner is friendly, open from 7 am"}
+  ],
+  "people": ["the tea seller at the corner", "the neighbour from the second floor", "the nursery owner"],
+  "likes": ["flowers", "birdsong", "old songs", "chatting"],
+  "avoid": ["the main road", "the broken steps behind the school", "walking after 9 am in hot weather"]
+}
